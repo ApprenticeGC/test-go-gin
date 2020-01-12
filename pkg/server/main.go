@@ -3,8 +3,8 @@ package server
 import (
 	"log"
 
-	"github.com/AppretniceGC/test-go-gin/internal/handlers"
-	"github.com/AppretniceGC/test-go-gin/pkg/utils"
+	"github.com/ApprenticeGC/test-go-gin/internal/handlers"
+	"github.com/ApprenticeGC/test-go-gin/pkg/utils"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/AppretniceGC/test-go-gin/pkg/server"
+	"github.com/ApprenticeGC//test-go-gin/pkg/server"
 )
 
 func main() {
